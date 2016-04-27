@@ -4,7 +4,7 @@
 ----
 ## 목차
 1. Editor
-    * [인텔리J](.editor/intellij-중요기능.md)
+    * [인텔리J](editor/intellij-중요기능.md)
 
 2. 코딩컨벤션
-    * [자바스크립트 & HTML](.conventions/자바스크립트&HTML.md)
+    * [자바스크립트 & HTML](conventions/자바스크립트&HTML.md)
